@@ -32,9 +32,6 @@ This project leverages a modern and scalable tech stack to deliver a high-qualit
 
 ### Core & UI
 -   **React Native:** The core framework for building cross-platform (iOS & Android) applications from a single JavaScript/TypeScript codebase.
--   **TypeScript:** Ensures type safety, leading to more robust code and a better developer experience.
--   **React Native Vector Icons:** Provides a rich library of customizable icons.
--   **React Native SVG:** Used for rendering high-quality, resolution-independent vector graphics.
 
 ### Navigation
 -   **React Navigation:** The primary navigation library, used to create a smooth, native-like navigation experience. It implements a `StackNavigator` for primary screen transitions and a `BottomTabNavigator` for the main app interface.

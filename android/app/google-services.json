@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "518265636425",
-    "project_id": "benkalaw-291c6",
-    "storage_bucket": "benkalaw-291c6.firebasestorage.app"
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "your-firebase-project-id",
+    "storage_bucket": "your-firebase-project-id.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:518265636425:android:2805885d6418928707a198",
+        "mobilesdk_app_id": "1:YOUR_PROJECT_NUMBER:android:YOUR_APP_ID_HASH",
         "android_client_info": {
-          "package_name": "com.benkalaw.app"
+          "package_name": "com.yourcompany.yourapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBYEu8YLsxo3mSr8NNl_zISkfa6_TUwNHU"
+          "current_key": "YOUR_ANDROID_API_KEY"
         }
       ],
       "services": {

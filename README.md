@@ -16,12 +16,13 @@ The application provides a robust set of features designed to streamline the cli
 
 ## 📸 Screenshots
 
-To add screenshots, create a folder at `assets/screenshots` in the root of the project. Add your images there, and then embed them here using Markdown. It is recommended to use images with a width of around 300px for a clean layout.
-
-| Login Screen                               | Home Screen                                |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Login Screen](assets/screenshots/login.png) | ![Home Screen](assets/screenshots/home.png) |
-
+| Login Screen | Home Screen | Case Screen |
+| :---: | :---: | :---: |
+| ![Login Screen](assets/screenshots/login.png) | ![Home Screen](assets/screenshots/home.png) | ![Case Screen](assets/screenshots/case.png) |
+| **Chats Screen** | **Chat Screen** | **Reminders Screen** |
+| ![Chats Screen](assets/screenshots/chats.png) | ![Chat Screen](assets/screenshots/chat.png) | ![Reminders Screen](assets/screenshots/reminders.png) |
+| **Profile Screen** | **Splash Screen** | |
+| ![Profile Screen](assets/screenshots/profile.png) | ![Splash Screen](assets/screenshots/splash.png) | |
 
 ---
 

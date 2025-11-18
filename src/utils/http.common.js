@@ -3,9 +3,7 @@ import { getItem, removeItem, setItem } from './asyncStorage';
 import { replace } from '../navigation/RootNavigation';
 
 const httpCommon = axios.create({
-  baseURL: 'https://q1gdzrt1-3000.inc1.devtunnels.ms/api',
-  //this is a server endpoint which will forward all the requests to the main api end point
-  // baseURL: 'https://b96e0c0091e3.ngrok-free.app/api',
+  baseURL: '',// Set your API base URL here use .env or config file
   timeout: 60000, // 60 seconds timeout
   headers: {
     'Content-Type': 'application/json',
